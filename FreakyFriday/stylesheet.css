@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     width: 250px;
-    background-color: lightgrey;
+    background-color: rgb(180,180,180,0.5);
     position: fixed;
     height: 100%;
 overflow: auto;
@@ -43,27 +43,27 @@ padding: 40px 0px 0px 300px;
 }
 
 #sukker {
-padding: 40px 0px 0px 300px;
+padding: 0px 0px 0px 300px;
 
 }
 
 #element{
-padding: 50px 100px 100px 300px;
+padding: 0px 100px 100px 300px;
 }
 
 .ingri {
-padding: 50px 100px 100px 300px;
+padding: 0px 100px 100px 300px;
 }
 
 .brod {
-padding: 50px 100px 100px 300px;
+padding: 0px 100px 100px 300px;
 }
 
 .tilb{
-padding: 50px 100px 100px 300px;
+padding: 0px 100px 100px 30px;
 }
 
 .marsi{
-padding: 50px 100px 100px 300px;
+padding: 0px 100px 100px 30px;
 }
 
