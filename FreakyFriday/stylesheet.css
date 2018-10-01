@@ -49,27 +49,11 @@ text-align: justify;
 
 }
 
-#element{
-padding: 0px 100px 100px 300px;
-text-align: justify;
+.box {
+padding: 40px 0px 0px 300px;
+
 }
 
-.ingri {
-padding: 0px 100px 100px 300px;
-}
-
-.brod {
-padding: 0px 100px 100px 300px;
-text-align: justify;
-}
-
-.tilb{
-padding: 0px 100px 100px 30px;
-}
-
-.marsi{
-padding: 0px 100px 100px 30px;
-}
 
 #title {
 font-family: Arial;
