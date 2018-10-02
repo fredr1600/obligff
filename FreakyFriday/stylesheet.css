@@ -72,5 +72,19 @@ text-align: center;
 
 }
 
+.previous {
+background-color: snow;
+font-family: arial;
+font-size: 20px;
+text-decoration: none;
+}
+
+.next{
+background-color:snow;
+font-family: arial;
+font-size: 20px;
+text-decoration: none;
+}
+
 
 
